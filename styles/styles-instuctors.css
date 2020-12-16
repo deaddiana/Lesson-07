@@ -49,6 +49,7 @@ nav {
   grid-column: span 12 / auto;
   background-color: #03a3df;
   padding: 10px;
+  overflow: hidden;
 }
 
 nav li {
