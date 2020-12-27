@@ -14,22 +14,24 @@
 }
 
 .address {
-  color:#03a3df;
+  color:#ECB722;
   padding-left: 10px;
 }
 
 .address h3 {
   margin-bottom: 0;
+  font-size: 20px;
 }
 
 .address p {
   margin:0;
   font-weight: bold;
+  font-size: 20px;
 }
 
 .address a {
   text-decoration: none;
-  color: #ecb722;
+  color: #ECB722;
 }
 
 .header img {
